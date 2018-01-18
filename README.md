@@ -1,3 +1,5 @@
+> This module is fork from node-plantuml and published as node-plantuml-latest due to plantuml.jar upgraded to the latest version(1.2018.0).
+
 # node-plantuml
 
 A Node.js module and CLI for running [PlantUML](http://plantuml.sourceforge.net/).
