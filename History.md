@@ -1,4 +1,10 @@
 
+1.0.1 / 2018-03-20
+==================
+
+**others**
+  * [[`b1dd68f`](http://github.com/dead-horse/node-plantuml/commit/b1dd68f4c898acee8f44b90656e01852c8bc2169)] - Upgrade PlantUML to version 1.2018.2 (dead-horse <<dead_horse@qq.com>>)
+
 1.0.0 / 2018-01-18
 ==================
 
